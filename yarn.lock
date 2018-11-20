@@ -4261,6 +4261,7 @@ react-navigation-tabs@0.8.4:
 react-navigation@^2.18.2:
   version "2.18.2"
   resolved "http://registry.npm.taobao.org/react-navigation/download/react-navigation-2.18.2.tgz#ba278ded41f736d029c7cae5d54ab1427dc6ed34"
+  integrity sha1-uieN7UH3NtApx8rl1UqxQn3G7TQ=
   dependencies:
     clamp "^1.0.1"
     create-react-context "0.2.2"
@@ -4370,6 +4371,11 @@ realpath-native@^1.0.0:
   resolved "http://registry.npm.taobao.org/realpath-native/download/realpath-native-1.0.2.tgz#cd51ce089b513b45cf9b1516c82989b51ccc6560"
   dependencies:
     util.promisify "^1.0.0"
+
+redux-immutable@^4.0.0:
+  version "4.0.0"
+  resolved "http://registry.npm.taobao.org/redux-immutable/download/redux-immutable-4.0.0.tgz#3a1a32df66366462b63691f0e1dc35e472bbc9f3"
+  integrity sha1-Ohoy32Y2ZGK2NpHw4dw15HK7yfM=
 
 redux-thunk@^2.3.0:
   version "2.3.0"
