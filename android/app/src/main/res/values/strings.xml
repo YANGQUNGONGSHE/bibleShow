@@ -1,3 +1,4 @@
 <resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">ibiRy-41dfNr8J4GDnURzBs4whhNc6159f94-7b3f-4f91-b85d-9f7beb5c2aa9</string>
     <string name="app_name">bibleShow</string>
 </resources>
